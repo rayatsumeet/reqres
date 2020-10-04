@@ -1,0 +1,24 @@
+
+
+
+  2020-10-03 20:11:27 INFO  EmployeeBasepakchage:20 - *********  started TC001_Get_All_Employees **********
+  2020-10-03 20:11:28 INFO  EmployeeBasepakchage:59 - ***********  Checking Content Type **********
+  2020-10-03 20:11:28 INFO  EmployeeBasepakchage:62 - Content type is ==>application/json;charset=utf-8
+  2020-10-03 20:11:28 INFO  EmployeeBasepakchage:42 - ***********  Checking Response time **********
+  2020-10-03 20:11:28 INFO  EmployeeBasepakchage:76 - *********  Finished TC001_Get_All_Employees **********
+  2020-10-04 11:12:23 INFO  EmployeeBasepakchage:20 - *********  started TC001_Get_All_Employees **********
+  2020-10-04 11:12:27 INFO  EmployeeBasepakchage:59 - ***********  Checking Content Type **********
+  2020-10-04 11:12:27 INFO  EmployeeBasepakchage:62 - Content type is ==>application/json;charset=utf-8
+  2020-10-04 11:12:27 INFO  EmployeeBasepakchage:42 - ***********  Checking Response time **********
+  2020-10-04 11:12:27 INFO  EmployeeBasepakchage:76 - *********  Finished TC001_Get_All_Employees **********
+  2020-10-04 12:17:22 INFO  EmployeeBasepakchage:20 - *********  started TC001_Get_All_Employees **********
+  2020-10-04 12:17:25 INFO  EmployeeBasepakchage:59 - ***********  Checking Content Type **********
+  2020-10-04 12:17:25 INFO  EmployeeBasepakchage:62 - Content type is ==>application/json;charset=utf-8
+  2020-10-04 12:17:25 INFO  EmployeeBasepakchage:42 - ***********  Checking Response time **********
+  2020-10-04 12:17:25 INFO  EmployeeBasepakchage:76 - *********  Finished TC001_Get_All_Employees **********
+  2020-10-04 12:18:29 INFO  EmployeeBasepakchage:20 - *********  started TC001_Get_All_Employees **********
+  2020-10-04 12:18:31 INFO  EmployeeBasepakchage:59 - ***********  Checking Content Type **********
+  2020-10-04 12:18:31 INFO  EmployeeBasepakchage:62 - Content type is ==>application/json;charset=utf-8
+  2020-10-04 12:18:31 INFO  EmployeeBasepakchage:42 - ***********  Checking Response time **********
+  2020-10-04 12:18:31 INFO  EmployeeBasepakchage:76 - *********  Finished TC001_Get_All_Employees **********
+  
