@@ -32,7 +32,7 @@ public Logger logger;
 	
 public void setup(){
 	
-	
+	//logger object
 	logger=Logger.getLogger("EmployeeBasepakchage");//added Logger
 	
 	PropertyConfigurator.configure("log4j.properties"); //added logger
