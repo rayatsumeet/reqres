@@ -21,4 +21,14 @@
   2020-10-04 12:18:31 INFO  EmployeeBasepakchage:62 - Content type is ==>application/json;charset=utf-8
   2020-10-04 12:18:31 INFO  EmployeeBasepakchage:42 - ***********  Checking Response time **********
   2020-10-04 12:18:31 INFO  EmployeeBasepakchage:76 - *********  Finished TC001_Get_All_Employees **********
+  2020-10-06 20:54:58 INFO  EmployeeBasepakchage:20 - *********  started TC001_Get_All_Employees **********
+  2020-10-06 20:55:01 INFO  EmployeeBasepakchage:59 - ***********  Checking Content Type **********
+  2020-10-06 20:55:01 INFO  EmployeeBasepakchage:62 - Content type is ==>application/json;charset=utf-8
+  2020-10-06 20:55:01 INFO  EmployeeBasepakchage:42 - ***********  Checking Response time **********
+  2020-10-06 20:55:01 INFO  EmployeeBasepakchage:76 - *********  Finished TC001_Get_All_Employees **********
+  2020-10-06 20:56:02 INFO  EmployeeBasepakchage:20 - *********  started TC001_Get_All_Employees **********
+  2020-10-06 20:56:03 INFO  EmployeeBasepakchage:59 - ***********  Checking Content Type **********
+  2020-10-06 20:56:03 INFO  EmployeeBasepakchage:62 - Content type is ==>application/json;charset=utf-8
+  2020-10-06 20:56:03 INFO  EmployeeBasepakchage:42 - ***********  Checking Response time **********
+  2020-10-06 20:56:03 INFO  EmployeeBasepakchage:76 - *********  Finished TC001_Get_All_Employees **********
   
