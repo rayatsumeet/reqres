@@ -31,4 +31,9 @@
   2020-10-06 20:56:03 INFO  EmployeeBasepakchage:62 - Content type is ==>application/json;charset=utf-8
   2020-10-06 20:56:03 INFO  EmployeeBasepakchage:42 - ***********  Checking Response time **********
   2020-10-06 20:56:03 INFO  EmployeeBasepakchage:76 - *********  Finished TC001_Get_All_Employees **********
+  2020-10-06 21:31:15 INFO  EmployeeBasepakchage:20 - *********  started TC001_Get_All_Employees **********
+  2020-10-06 21:31:16 INFO  EmployeeBasepakchage:59 - ***********  Checking Content Type **********
+  2020-10-06 21:31:16 INFO  EmployeeBasepakchage:62 - Content type is ==>application/json;charset=utf-8
+  2020-10-06 21:31:16 INFO  EmployeeBasepakchage:42 - ***********  Checking Response time **********
+  2020-10-06 21:31:16 INFO  EmployeeBasepakchage:76 - *********  Finished TC001_Get_All_Employees **********
   
