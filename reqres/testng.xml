@@ -3,9 +3,13 @@
 
 <suite name="EmployeesRestAPISuite">
 
-	<test thread-count="1" name="EmployeesRestAPITest">
+	<test thread-count="3" name="EmployeesRestAPITest">
 		<classes>
+		<class name="testcase.Request2" />
 			<class name="testcase.TC001getreq" />
+			
+		
+			<class name="testcase.xmlreq" />
 		
 			
 

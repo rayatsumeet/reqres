@@ -7,6 +7,10 @@
         <methods>
           <include name="checkContentType"/>
           <include name="setup"/>
+          <include name="checkid"/>
+          <include name="tearDown"/>
+          <include name="getresponse"/>
+          <include name="checkResponseTime"/>
         </methods>
       </class> <!-- testcase.TC001getreq -->
     </classes>

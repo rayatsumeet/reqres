@@ -3,6 +3,7 @@ package EmployeeBasepakchage;
 
 
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
 
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
@@ -28,8 +29,7 @@ public Logger logger;
 	
 
 	
-@BeforeClass
-	
+@BeforeClass(enabled = true)
 public void setup(){
 	
 	//logger object

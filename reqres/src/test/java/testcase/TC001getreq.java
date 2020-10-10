@@ -3,6 +3,8 @@ package testcase;
 
 
 
+import static org.testng.Assert.assertEquals;
+
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
@@ -33,7 +35,14 @@ public class TC001getreq extends TestBase {
 	}
 	
 	
-
+		@Test
+		void checkid() {
+	// TODO Auto-generated method stub
+			
+	String ss =  res.getBody().asString();
+	
+	Assert.assertEquals(ss.contains("Frost"), true);
+				}			
 	
 	@Test
 	void checkResponseTime()
